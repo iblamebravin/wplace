@@ -1,6 +1,4 @@
 (() => { ‘use strict’;
-
-
 // ===== CONFIG =====
 const VERSION = 'v8.5';
 const UI_TICK_MS = 500;
